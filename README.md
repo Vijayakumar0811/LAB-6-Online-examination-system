@@ -1,4 +1,6 @@
 # LAB-6-Online-examination-system
+# NAME: VIJAYAKUMAR S
+# REG NO: 212224040359
 ### AIM:
 To develop the Exam Registration System using Star UML tools.
 ### PROBLEM STATEMENT
@@ -16,6 +18,23 @@ and any forfeiting identified can make the applicant liable to penalty as per th
 hall tickets for the applicants. After successful generation of hall tickets, the system delivers
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
+# USE CASE
+![USE CASE](https://github.com/user-attachments/assets/c91a9768-4318-4cb2-beac-9a3a5fe9d7a3)
+
+# ACTIVITY
+![ACTIVITY](https://github.com/user-attachments/assets/b37127e0-d336-4ab1-bc95-cc20aab38163)
+
+# CLASS
+![CLASS](https://github.com/user-attachments/assets/839dae7b-6a29-4dac-838d-b55fabf0d7a9)
+
+# SEQUENCE
+![SEQUENCE](https://github.com/user-attachments/assets/4de27f46-b149-443e-9078-8c2245093483)
+
+# COMMUNICATION
+![COMMUNICATION](https://github.com/user-attachments/assets/df786fda-06aa-4a70-8220-cfa366a345b3)
+
+# PACKAGE
+![PACKAGE](https://github.com/user-attachments/assets/a628b491-9a9f-4782-a273-6cf74e298cd7)
 
 
 
